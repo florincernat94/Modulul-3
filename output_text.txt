@@ -1,0 +1,29 @@
+LANGUAGE:en
+SYNONYMS:
+Hello:'hello'
+,:
+how:
+are:'equal', 'constitute', 'exist', 'cost', 'embody', 'be'
+you:
+doing:'perform', 'do', 'suffice', 'practice', 'act', 'make', 'dress', 'cause', 'serve'
+?:
+Are:'are'
+you:
+fine:'all_right', 'fine'
+?:
+Miguel:'Miguel'
+NAMED ENTITIES
+('Hello', 'GPE')
+Words with POS TAG:
+('Hello', 'NNP')
+(',', ',')
+('how', 'WRB')
+('are', 'VBP')
+('you', 'PRP')
+('doing', 'VBG')
+('?', '.')
+('Are', 'NNP')
+('you', 'PRP')
+('fine', 'JJ')
+('?', '.')
+('Miguel', 'NN')

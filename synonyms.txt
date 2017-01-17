@@ -1,0 +1,8 @@
+{"Cartman is just big boned and he likes chocolate.":{"Cartman":["1:Cartman"],
+"is":["1:equal", "2:be", "3:exist", "4:constitute", "5:cost"],
+"boned":["1:cram"],
+"likes":["1:wish"],
+"chocolate":["1:cocoa"]},
+"Remember Nagasaki":{"Remember":["1:Remember"],
+"Nagasaki":["1:nagasaki"]}
+}

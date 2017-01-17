@@ -1,0 +1,13 @@
+For the text processing module we use the nltk api provided by python.
+We receive an input text.
+On this text we split the text into words using nltk.word_tokenizer.
+Then we tag the words with POS tags using nltk.pos_tagger , we also group words using nltk.ne_chunk into the same entity
+We user NER resolution to determine the PERSON,FACILITY,GPE,ORGANIZATION.
+Alse we are using detect() from langdetect to detect the language of the input text. If the result is different than "en" than it means it isn't written in english.
+We are using wordnet to find sinonims for all verbs and nouns.
+All this output we will write in output_text_processing.txt
+
+Members:
+Cernat Florin: Reading file,POS tagg the words,NER resolution,writeing the result
+Iustin Irimia: Detecting language
+Ursachi Codrin: Finding synonyms

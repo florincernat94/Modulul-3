@@ -1,0 +1,1 @@
+{"Hi":"NN","!":".","My":"PRP$","name":"NN","is":"VBZ","John":"NNP","Cena":"NNP",",":",","I":"PRP","work":"VBP","at":"IN","WWE":"NNP","and":"CC","I":"PRP","live":"VBP","in":"IN","USA":"NNP","and":"CC","I":"PRP","like":"VBP","to":"TO","drink":"VB","votka":"NN",}

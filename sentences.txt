@@ -1,0 +1,3 @@
+{"Cartman is just big boned and he likes chocolate.":"afirmatie",
+"Remember Nagasaki":"afirmatie"
+}
